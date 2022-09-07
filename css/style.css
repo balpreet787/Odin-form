@@ -1,0 +1,11 @@
+:root{
+    --bg-color-right: rgb(174, 168, 168);
+}
+body{
+    background-image: url(../images/background.jpg);
+    background-size: 60%;
+    position: relative;
+}
+.details{
+    background-color: var(--bg-color-right);
+}
